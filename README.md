@@ -14,3 +14,7 @@
 > git log - get the commit id and all detail of it (like when the commit is performed with proper date and time)
 > git log --one line - get the id in one line
 > git remote - to check that the we are connected online or not(it it show nothing on the command then means that we are not connected online)
+git remote add origin https://github.com/karanthakur4999/Todo-list.git  -   here we go to the repo that we create on the github of name  (Todo list) and from there we copy the https address of that and paste in the gitBash (as you can see we put here the add origin soo the https address is store in this this name origin soo in the future when we have the need to write the https address to push and for the other operation then we instead of writing https again and again we simply write the word origin because the https address is store in the word origin).
+>git remote -v - it is used to check the origin (it show us the origin name and with that it show  us the http link also)
+>git push -u origin master - This is use for the push operation ( -u is use for  tracking between online and local).After this command Now we are connected online and our file (index.html) is added into the Github repo (Todo)
+>
