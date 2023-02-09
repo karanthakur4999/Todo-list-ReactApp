@@ -20,4 +20,7 @@ git remote add origin https://github.com/karanthakur4999/Todo-list.git  -   here
 >___________________________________________________________________________________
 Now if we perform some changes into the (index.html) then what is the procedure to perform that changes into index.html file and to save that changes into the online repository.
 >notepad index.html - we can add like this or we can directly goto the git repo(Todo list) and perform changes in the index.html file there and and commit directly there in gitHub or second thing that we can do it by gitbash by command> notepad index.html and perform changes in the file by the notepad and then ....
->git status -
+git status- if it showing the file index.html in red color and also mentioned there modified then the file is modied then we add the data by lower command
+>git add . - this is use to add the data into the staging area.
+>git commit -m "reupdating the data" - this is use to commit the data(after commit now we have to push the data)
+>git push -u origin master - this is use to push the data into the repository.
