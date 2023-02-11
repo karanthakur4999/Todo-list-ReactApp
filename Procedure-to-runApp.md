@@ -1,5 +1,7 @@
 # Todo-list-ReactApp
 
+ # read the (procedure-to-runApp.md) file to run the project or to understand the working of Todo list:-
+
 #To run this project follow the following steps-
 
 1. install the Node globally on your system from 
