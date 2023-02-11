@@ -5,7 +5,7 @@
 #To run this project follow the following steps-
 
 1. install the Node globally on your system from 
-Node.jshttps://nodejs.org
+Node.jshttps://nodejs.org (to install node globally search on the our browser and follow the procedure. )
 
 2. create a folder and open it with vscode.
 3. open the teminial of vsCode go to your folder that you create,  writing command on your terminal to reach to your folder > cd foldername ,press enter
